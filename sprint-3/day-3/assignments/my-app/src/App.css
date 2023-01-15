@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+}
+
+.nav {
+
+  border: 2px solid green;
+
+  padding: 20px;
+
+  display: flex;
+
+  justify-content: space-around;
+
+  font-size: larger;
+
+  background-color: rgb(0, 255, 187);
+
+
+}
+
+.pages {
+
+  /* border: 2px solid red; */
+
+  text-align: center;
+
+  margin-top: 100px;
+
+}
+
+.pages > button {
+
+  margin-right: 50px;
+
+}
+
+
+.active {
+
+    padding: 10px;
+
+    border: 2px solid ;
+
+    border-radius: 20px;
+
+    background-color: #46c76b;
+
+    text-decoration: none;
+
+    color: black;
+
+    box-shadow: 2px 2px 10px;
+
+    transition: 0.5s;
+
+}
+
+
+.default {
+
+    /* border: 2px solid red; */
+
+    padding: 10px;
+
+    border-radius: 20px;
+
+    background-color: #46c76b;
+
+    text-decoration: none;
+
+    color: black;
+
+}

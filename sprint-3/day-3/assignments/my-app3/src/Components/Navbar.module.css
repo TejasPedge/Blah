@@ -1,0 +1,50 @@
+
+
+.navbar {
+
+ border: 2px solid green;
+
+ padding: 10px;
+
+ display: flex;
+
+ justify-content: space-evenly;
+ 
+ background-color: blueviolet;
+
+ font-size: larger;
+
+}
+
+.active {
+
+   border: 2px solid rgb(3, 2, 40);
+
+   padding: 10px;
+
+   border-radius: 20px;
+
+   color: black;
+
+   text-decoration: none;
+
+   box-shadow: 2px 2px 10px ;
+
+   transition: 0.5s ;
+
+}
+
+
+.default {
+
+    border: 2px solid rgb(0, 255, 136);
+
+    padding: 10px;
+ 
+    border-radius: 5px;
+ 
+    color: black;
+
+    text-decoration: none;
+
+}

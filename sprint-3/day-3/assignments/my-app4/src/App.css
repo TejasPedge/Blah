@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+
+.nav {
+
+  border: 2px solid rgb(0, 200, 255);
+  padding: 10px;
+  display : flex;
+  justify-content: space-evenly;
+
+  background-color: black;
+
+  color: antiquewhite;
+
+}
+
+
+.active {
+
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 20px;
+
+  color: white;
+
+  text-decoration: none;
+
+  box-shadow: 1px 1px 10px;
+
+  transition: 0.5s;
+
+}
+
+.default {
+
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.card{
+
+  border: 2px solid green;
+
+  margin-top: 30px;
+
+  width:  350px;
+
+  border-radius: 20px;
+
+  box-shadow: 1px 1px 10px;
+  
+  background-color: black;
+
+  color: white;
+
+  margin: auto;
+
+  padding: 20px;
+
+  margin-bottom: 30px;
+  
+
+  
+}
+
+.info {
+
+  border: 2px solid rgb(251, 251, 251);
+
+  display: flex;
+
+  padding: 10px;
+  
+  border-radius: 50px;
+
+  justify-content: space-between;
+
+  width: 200px;
+
+  margin: auto;
+
+ 
+}
+
+
+.card:hover {
+
+    cursor: pointer;
+
+}
+
+
+.buttons {
+
+  margin: auto;
+
+  justify-content: space-around;
+
+  font-size: larger;
+
+  border: 2px solid green;
+
+  width: 400px;
+
+  padding: 10px;
+
+  margin-bottom: 500px;
+
+  display: flex;
+
+}
+
+.buttons > button {
+
+  font-size: large;
+}

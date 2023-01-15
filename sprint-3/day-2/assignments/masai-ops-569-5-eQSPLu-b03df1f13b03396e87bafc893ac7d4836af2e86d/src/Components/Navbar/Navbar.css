@@ -1,0 +1,17 @@
+.nav-bar{
+/* 
+    border: 2px solid green; */
+
+    display: flex;
+
+    justify-content: space-around;
+
+    font-size: 24px;
+
+    height: 60px;
+
+    align-items: center;
+
+    background-color: rgb(0, 255, 208);
+
+}

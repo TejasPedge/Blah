@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.card {
+
+  border: 2px solid green;
+
+  padding: 20px;
+
+  width: 500px;
+
+  border-radius: 20px;
+
+  box-shadow: 2px 2px 5px;
+
+  background-color: aquamarine;
+
+  margin: auto;
+
+  margin-bottom: 30px;
+
+}
+
+
+.img {
+
+  width: 100px;
+
+}
+
+
+input[type="text"] {
+
+  padding: 10px;
+
+  margin-bottom: 20px;
+
+  font-size: large;
+
+  border-radius: 10px;
+
+
+
+}
+
+.paginate {
+
+
+  border: 2px solid green;
+
+  padding: 20px;
+
+  margin-bottom: 60px;
+}
+
+.paginate > button {
+
+    padding: 10px;
+
+    margin-right: 20px;
+
+} 

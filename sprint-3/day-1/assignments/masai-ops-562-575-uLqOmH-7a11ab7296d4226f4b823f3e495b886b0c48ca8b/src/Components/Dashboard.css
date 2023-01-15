@@ -1,0 +1,33 @@
+.select-theme {
+
+    border: 2px solid rgb(0, 255, 136);
+
+    padding: 10px;
+
+    font-size: larger;
+
+    font-weight: bold;
+
+    border-radius: 10px;
+
+    box-shadow: 1px 1px 10px;
+
+}
+
+.parent-dashboard {
+
+    border: 2px solid red;
+
+    width: 60%;
+
+    margin: auto;
+
+    margin-top: 50px;
+
+    padding: 50px;
+
+    border-radius: 30px;
+    
+
+
+}
